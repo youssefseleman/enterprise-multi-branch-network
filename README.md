@@ -20,7 +20,7 @@ The topology consists of:
 
 The HQ and branch routers connect through the Frame Relay WAN. Each router connects to its local LAN.
 
-![Network topology](screenshots/network-topology.png)
+
 
 ## Technologies Used
 
@@ -105,13 +105,6 @@ See the `screenshots/` directory for evidence of the actual topology and verific
 - Practiced DHCP configuration.
 - Worked with Frame Relay WAN concepts and DLCI mappings.
 - Used Cisco IOS commands to verify network status and troubleshoot connectivity.
-
-## How to Open the Project
-
-1. Download `Enterprise_Multi_Branch_Network.pkt`.
-2. Open Cisco Packet Tracer.
-3. Open the downloaded `.pkt` file.
-4. Inspect the topology and run connectivity tests.
 
 ## Author
 
