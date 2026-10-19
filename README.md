@@ -19,7 +19,7 @@ The topology consists of:
 - 1 Frame Relay switch
 
 The HQ and branch routers connect through the Frame Relay WAN. Each router connects to its local LAN.
-![Network topology](screenshots/network-topology.png)
+![Network topology](screenshots/network-topology.png..png)
 
 
 
